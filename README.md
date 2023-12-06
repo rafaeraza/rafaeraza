@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on the Xymbia platform, an automation framework for collaboration that aims to change the way people work together to achieve common goals<br><br>- 📚 I'm learning Dart and the Flutter framework<br><br>- ⚡ In my free time I love indulging in sports, films & TV, video games, and comic books</p>
+<p align="left">🔭 I’m currently working on the Xymbia platform, an automation framework for collaboration that aims to change the way people work together to achieve common goals<br><br>- 📚 I'm learning Dart and the Flutter framework<br><br>- ⚡ In my free time, I love indulging in sports, films & TV, video games, and comic books</p>
 
 ###
 
@@ -78,6 +78,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
 </div>
 
+<!--
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
@@ -89,3 +90,4 @@
 </div>
 
 ###
+-->
