@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">Hi 👋, I'm Rafae</h1>
+<h1 align="center">Hi! I'm Rafae 👋</h1>
 
 ###
 
@@ -9,6 +9,10 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<p align="left"> I'm a Software Engineer with a passion for Application Development.</p>
 
 ###
 
@@ -57,7 +61,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
   <img width="12" />
@@ -74,16 +78,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
 </div>
 
-<!--
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=rafaeraza&theme=dark&exclude_days=Sun%2CSat" height="220" alt="streak graph"  />
 </div>
 
 ###
--->
