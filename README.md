@@ -12,10 +12,6 @@
 
 ###
 
-<p align="left"> I'm a Software Engineer with a passion for Application Development.</p>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
